@@ -36,7 +36,7 @@ void fill_matrix(int n, double f_xr[], double **matrix_e, double x[])
 
 }
 
-//¬ив≥д ≥нтерпол€ц≥йного многочлена Ќьютона
+
 void vuvid_polinom(double **matrix, double x[], int n)
 {
 	for (int i = 0; i<n; i++)
